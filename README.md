@@ -19,9 +19,14 @@ mysqlsh
 http://www.cs.sjsu.edu/~mak/tutorials/MySQLShell.pdf
 
 3, run testfile.sql in Mysql Shell
- \connect root@127.0.0.1:3306 (No password)
- \sql
- use faers;
- \js
- 执行testfile.sql
+
+\connect root@127.0.0.1:3306 (No password)
+
+\sql
+
+use faers;
+
+\js
+
+执行testfile.sql
 
